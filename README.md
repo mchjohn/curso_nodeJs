@@ -41,3 +41,8 @@ __Alguns tópicos abordados no curso:__
   Como criar o formulário para editar a senha do usuário com Node.js
   
   
+![página de cadastro de categoria](https://github.com/mchjohn/curso_nodeJs/blob/master/cadastro_categoria.png "Página de cadastro de categoria")
+
+![página de cadastro de pagamento](https://github.com/mchjohn/curso_nodeJs/blob/master/cadastro_pagamento_2.png "Página de cadastro de pagamento")
+
+![página do dashboard](https://github.com/mchjohn/curso_nodeJs/blob/master/dashboard.png "Página do Dashboard")
